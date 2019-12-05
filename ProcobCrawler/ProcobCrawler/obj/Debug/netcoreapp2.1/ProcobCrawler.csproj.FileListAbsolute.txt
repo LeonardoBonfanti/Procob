@@ -1,0 +1,11 @@
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.csprojAssemblyReference.cache
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.AssemblyInfoInputs.cache
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.AssemblyInfo.cs
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\netcoreapp2.1\ProcobCrawler.deps.json
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\netcoreapp2.1\ProcobCrawler.runtimeconfig.json
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\netcoreapp2.1\ProcobCrawler.runtimeconfig.dev.json
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\netcoreapp2.1\ProcobCrawler.dll
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\netcoreapp2.1\ProcobCrawler.pdb
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.dll
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\netcoreapp2.1\ProcobCrawler.pdb
