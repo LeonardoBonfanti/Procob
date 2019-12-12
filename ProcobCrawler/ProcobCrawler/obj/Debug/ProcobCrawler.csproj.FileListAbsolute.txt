@@ -18,3 +18,10 @@ C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\Proc
 C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\ProcobCrawler.csproj.CopyComplete
 C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\ProcobCrawler.exe
 C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\obj\Debug\ProcobCrawler.pdb
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\MongoDB.Bson.dll
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\MongoDB.Bson.xml
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Leonardo Bonfanti\Documents\Git\ProcobCrawler\Procob\ProcobCrawler\ProcobCrawler\bin\Debug\Newtonsoft.Json.Bson.xml
