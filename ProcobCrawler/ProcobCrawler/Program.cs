@@ -15,7 +15,7 @@ namespace ProcobCrawler
         private static List<string> contatos;
 
         private static int menu = (int)EnumMenu.DADOS_CADASTRAIS;
-        private static int tab = (int)EnumDadosCadastrais.CPF_CNPJ_PELO_NOME;
+        private static int tab = (int)EnumDadosCadastrais.LISTA_TELEFONICA;
 
         static void Main(string[] args)
         {
